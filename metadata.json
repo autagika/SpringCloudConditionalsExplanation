@@ -1,0 +1,6 @@
+{
+  "name": "Spring Boot Autoconfigurations Guide",
+  "description": "An interactive visual guide and learning sandbox to master Spring Boot's @Conditional annotation and Autoconfiguration mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
